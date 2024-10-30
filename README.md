@@ -2,7 +2,8 @@
 
 Bem-vindo ao **Verdurão dos Crias**, o melhor site de vendas de frutas frescas online! Este projeto foi desenvolvido para proporcionar uma experiência simples e eficaz de compra de frutas através de uma interface amigável.
 
-![image](https://github.com/user-attachments/assets/561e11b8-3c26-45ed-8c1c-e47b7485a325)
+![image](https://github.com/user-attachments/assets/e1ad7ff9-aa5a-43b4-8aea-b83b911e1507)
+
 
 
 ## 📋 Fundamentos Utilizados 🗿🍷
@@ -25,7 +26,8 @@ Este projeto foi construído com foco em fundamentos básicos da web, utilizando
 - **Sombras e bordas arredondadas**: Aplicação de sombras (`box-shadow`) e bordas arredondadas (`border-radius`) para criar cartões de produto atraentes.
 - **Estilo do rodapé**: O rodapé foi estilizado com cores e fontes que seguem o padrão visual do site, além de conter links e informações de contato.
 
-![image](https://github.com/user-attachments/assets/186f38d7-4e52-414a-a0ff-00e74eeedfd2)
+![image](https://github.com/user-attachments/assets/f7891cee-60ba-4bed-8da7-8612d923a6ae)
+
 
 
 ## 🚀 Funcionalidades 🗿🍷
